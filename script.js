@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', () => {
             name: 'Riding Extreme 3D',
             appToken: 'd28721be-fd2d-4b45-869e-9f253b554e50',
             promoId: '43e35910-c168-4634-ad4f-52fd764a843f',
-            timing: 30000, // 30 seconds
+            timing: 300, // 30 seconds
             attempts: 25,
         },
         2: {
